@@ -1,0 +1,13 @@
+C:\Users\pc\Downloads\Projeto\Aula18Fut\bin\Debug\netcoreapp3.1\Aula18Fut.exe
+C:\Users\pc\Downloads\Projeto\Aula18Fut\bin\Debug\netcoreapp3.1\Aula18Fut.deps.json
+C:\Users\pc\Downloads\Projeto\Aula18Fut\bin\Debug\netcoreapp3.1\Aula18Fut.runtimeconfig.json
+C:\Users\pc\Downloads\Projeto\Aula18Fut\bin\Debug\netcoreapp3.1\Aula18Fut.runtimeconfig.dev.json
+C:\Users\pc\Downloads\Projeto\Aula18Fut\bin\Debug\netcoreapp3.1\Aula18Fut.dll
+C:\Users\pc\Downloads\Projeto\Aula18Fut\bin\Debug\netcoreapp3.1\Aula18Fut.pdb
+C:\Users\pc\Downloads\Projeto\Aula18Fut\obj\Debug\netcoreapp3.1\Aula18Fut.csprojAssemblyReference.cache
+C:\Users\pc\Downloads\Projeto\Aula18Fut\obj\Debug\netcoreapp3.1\Aula18Fut.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\Projeto\Aula18Fut\obj\Debug\netcoreapp3.1\Aula18Fut.AssemblyInfoInputs.cache
+C:\Users\pc\Downloads\Projeto\Aula18Fut\obj\Debug\netcoreapp3.1\Aula18Fut.AssemblyInfo.cs
+C:\Users\pc\Downloads\Projeto\Aula18Fut\obj\Debug\netcoreapp3.1\Aula18Fut.dll
+C:\Users\pc\Downloads\Projeto\Aula18Fut\obj\Debug\netcoreapp3.1\Aula18Fut.pdb
+C:\Users\pc\Downloads\Projeto\Aula18Fut\obj\Debug\netcoreapp3.1\Aula18Fut.genruntimeconfig.cache
